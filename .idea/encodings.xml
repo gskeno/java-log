@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/jcl-over-slf4j/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jcl-over-slf4j/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jcl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jcl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/slf4j-over-log4j/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/slf4j-over-log4j/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/slf4j-over-log4j2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/slf4j-over-log4j2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/slf4j-over-logback/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/slf4j-over-logback/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
